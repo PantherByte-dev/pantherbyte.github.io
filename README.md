@@ -1,2 +1,2 @@
-# pantherbyte.github.io
+# pantherbytes.github.io
 PantherByte Tech Support Portfolio
